@@ -270,10 +270,11 @@ int main(){
             system("color 3E");
             cout << "\tThis is a game named Ninety-Nine." << endl
                  << "\tYou have to play all the cards in your hand," << endl
-                 << "\tand avoid the total number exceeding 99."
+                 << "\tand avoid the total number exceeding 99." << endl << endl
                  << "\tFollowings are the rules of this game:" << endl
                  << "\t## At the beginning of the game, you\'ll get 12 cards." << endl
-                 << "\t## The 2s to 3s, 6s to 9s is the normal card,\n which means their value is the same as its literal number." << endl;
+                 << "\t## The 2s to 3s, 6s to 9s is the normal card,\n which means their value is the same as its literal number." << endl
+                 << "\t## Value of a lower-case 'a' is one,\n\t   BUT a upper-case 'A' represents to bring the total number return to ZERO." << endl;
             system("pause");
             system("cls");
             system("color F0");
