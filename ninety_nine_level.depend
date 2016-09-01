@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463300264 source:c:\users\user\desktop\designpro\c++\ninety_nine_level\99_ai_level.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<windows.h>
+
